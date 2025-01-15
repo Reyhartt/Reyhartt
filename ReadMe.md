@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Reyhartt
-- 👀 I’m interested in web , VR , AI and Cyber Security.
-- 🌱 I’m currently learning HTML&CSS.
+- 👀 I’m interested in Data Engineering , Data Analytics and Data Science.
 
 <!---
 Reyhartt/Reyhartt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
